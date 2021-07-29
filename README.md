@@ -210,4 +210,4 @@ for i in range(0,sides):
   for i in range(0, sides):
     turtle.forward(length)
     turtle.right(360/sides)
-turtle.bgcolor("blue")
+turtle.bgcolor("black")
